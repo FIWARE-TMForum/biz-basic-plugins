@@ -2,7 +2,7 @@
   "name": "Basic Service",
   "author": "fdelavega",
   "version": "1.0",
-  "module": "plugin.BasicPlugin",
+  "module": "basic_file.BasicPlugin",
   "media_types": [],
   "formats": ["FILE"],
   "overrides": []
